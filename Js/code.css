@@ -5,6 +5,6 @@ body{
     background-size: 100%;
 }
 div{
-    right: 100%;
-    tab-size: 80%;
+    left: 100%;
+    size-adjust: 50%;
 }
